@@ -1,0 +1,21 @@
+{
+  "name": "instagram-instance-app",
+  "version": "1.0.0",
+  "description": "using instagram API to display recent photos on instagram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Instagram",
+    "API",
+    "node"
+  ],
+  "author": "Daltimore",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8"
+  }
+}
