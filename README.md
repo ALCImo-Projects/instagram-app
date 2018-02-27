@@ -17,7 +17,7 @@ if you register your app with Instagram,
 so just use a third-party service, PixelUnion (http://instagram.pixelunion.net/) to get the access token.
 
 
-
+## About Developer
 
 I am Leo Anyanwu(Project-Owner), a JavaScript Fanatic with expertise on (Vue.JS && Node.JS)
 
