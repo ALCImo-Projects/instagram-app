@@ -1,11 +1,11 @@
-Instagram-app
+## Instagram-app
 
 
 This is more like an instagram app instance that only displays the recent photos of the user using instagram's API.
 
 
 
-Setup
+## Setup
 
 
 To use the instagram API,
